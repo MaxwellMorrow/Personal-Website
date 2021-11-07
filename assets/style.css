@@ -1,0 +1,54 @@
+.top-header 
+    {
+        color: rgba(0, 0, 255, 0.575);
+        display:block;
+        font-weight: bold;
+        text-align: center ;
+        background-color: gray;
+        border: green;
+        border-radius: 10px;
+        font-family: fantasy;
+}
+
+.developer-header
+{
+    text-align: center;
+    color: rgba(0, 0, 255, 0.575);
+    font-weight: bold;
+    font-family:fantasy;
+    background: grey;
+    border-radius: 10px;
+}
+
+.selfie
+{
+   float: right; 
+   max-width: 25%;
+   border-radius: 50%;
+   padding: 5px;
+   filter: sepia();
+}
+
+.main-text
+{
+    background-image: linear-gradient(blue, grey);
+    font-family: fantasy;
+    border-radius: 2px;
+    list-style-type: square;
+
+}
+
+.contact-text
+{
+    background-image: linear-gradient(grey,blue);
+}
+.email-link
+{
+    color: indigo;
+    text-decoration: none;
+    background-color: khaki;
+}
+.background
+{
+    background-color: grey;
+}
